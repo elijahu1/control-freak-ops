@@ -1,0 +1,6 @@
+# Ignore temporary shell scripts
+*.sh
+
+# Except our core scripts
+!scripts/*.sh
+!setup/*.sh
