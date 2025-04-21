@@ -1,7 +1,0 @@
-# username,group,shell,home_directory
-alice,admin,/bin/bash,/home/alice
-bob,editor,/bin/zsh,/home/bob
-carol,viewer,/bin/sh,/home/carol
-diego,admin,/bin/bash,/home/diego
-eva,editor,/bin/bash,/home/eva
-frank,viewer,/bin/sh,/home/frank
